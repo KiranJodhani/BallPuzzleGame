@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_GameLibrary/SplashScreen.unity
+    guid: 139c630b53643564f8c50872a6920dcd
+  - enabled: 1
+    path: Assets/BallPuzzleGame/Scene/MainMenu.unity
+    guid: 84ba72b1a2e334da580008d8ddbb3e8c
+  - enabled: 1
+    path: Assets/BallPuzzleGame/Scene/MainGame.unity
+    guid: 59c12b9c5498844d7b5512ef02999c23
+  m_configObjects: {}
